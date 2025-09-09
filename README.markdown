@@ -77,6 +77,3 @@ This project simulates a virtual memory system with a focus on page table implem
 ## Authors
 - Prashant Rawat (2024CSM1015)
 - Nitin Kumar Das (2024CSM1014)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
